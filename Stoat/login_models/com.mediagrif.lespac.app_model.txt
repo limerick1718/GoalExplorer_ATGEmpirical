@@ -1,2 +1,0 @@
-com.mediagrif.lespac.ui.activity.SplashScreenActivity,
-com.mediagrif.lespac.ui.activity.LoginActivity,
